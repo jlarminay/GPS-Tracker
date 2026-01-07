@@ -1,8 +1,7 @@
 import { createMemoryHistory, createRouter } from 'vue-router';
 
 import HomeView from './pages/HomeView.vue';
-import StatsView from './pages/StatsView.vue';
-import SettingView from './pages/SettingView.vue';
+import MapView from './pages/MapView.vue';
 
 const routes = [
   {
@@ -11,14 +10,9 @@ const routes = [
     component: HomeView,
   },
   {
-    path: '/stats',
-    name: 'StatsView',
-    component: StatsView,
-  },
-  {
-    path: '/settings',
-    name: 'SettingView',
-    component: SettingView,
+    path: '/map',
+    name: 'MapView',
+    component: MapView,
   },
 ];
 

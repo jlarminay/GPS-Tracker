@@ -1,28 +1,23 @@
-<p align="center">
+<!-- <p align="center">
   <img src="assets/icon-only.png" alt="App Icon" style="width:200px; height:200px; border-radius:20px;" />
-</p>
+</p> -->
 
 # GPS Tracker
 
 ## About
 
-I suffer from migraines and previously I used a text document to track my migraines. This worked, but I wanted to get more info, like common days, or overall migraines in a given month. I decided to build an android app using Capacitor to allow me to track my migraines.
+-
 
 ## Features
 
-- Simple calendar for logging migraine events (morning/evening)
-- Data visualization with charts (day of week, month, type)
-- CSV export and import (backup/restore your data)
-- Local storage for privacy (no cloud sync)
-- Toast notifications for feedback
-- Works as a PWA and as a native Android app
+-
 
 ## Screenshots
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/screenshot-1.jpg" alt="Screenshot 1" style="width:300px; margin-right:10px; display:inline-block;" />
   <img src="assets/screenshot-2.jpg" alt="Screenshot 2" style="width:300px; display:inline-block;" />
-</p>
+</p> -->
 
 ## Requirements
 
